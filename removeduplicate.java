@@ -17,8 +17,13 @@ class duplicateRemove{
 
     //now create main function.
     public static void main(String[] args) {
-        int a[] = {5, 2, 6, 8, 6, 7, 5, 2, 8};
+        int a[] = {5, 2, 6, 8, 6, 7, 5, 2, 8}; //array where duplicates number is 5, 6, 2, 8
         //calling function
         removeDuplicate(a);
     }
 }
+
+
+
+//output is:
+//{5, 2, 6, 8, 7}
