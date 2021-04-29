@@ -20,3 +20,7 @@ public class missingNums {
 		System.out.println(getMissingNo(arr, arr.length));
 	}
 }
+
+//the above array is the integer array length is 100 and missing number is 80 so the output is 80
+//output
+//80
