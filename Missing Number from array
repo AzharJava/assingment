@@ -21,6 +21,6 @@ public class missingNums {
 	}
 }
 
-//the above array is the integer array length is 100 and missing number is 80 so the output is 80
+//the above array is the integer array length is 100 and missing number is 80
 //output
 //80
