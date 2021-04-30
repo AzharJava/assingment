@@ -35,11 +35,14 @@ class bubbleSort {
 
 
 
-                ///OUTPUT
+                
+   
+        }  
+}  
+
+
+                //OUTPUT
                 //---Array Before Bubble Sort---
                 //31 6 350 21 4 366 55
                 //---Array After Bubble Sort---
                 //4 6 21 31 55 350 366
-   
-        }  
-}  
