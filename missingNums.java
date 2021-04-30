@@ -1,6 +1,6 @@
-package missingNums;
 
-public class missingNums {
+
+class missingNums {
 	//a represent the array
 	//n: Number of elements in array a
 	
