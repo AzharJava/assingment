@@ -18,9 +18,15 @@ class onlyDigit{
 	}
 
 	public static void main(String[] args) {
-		String str = "1234";
+		String str = "1234";	//here i used only digits so return is true. if i enter the only character then return false.
 		int len=str.length();
 		//calling the function
 		System.out.println(onlyDigit(str, len));
 	}
 }
+
+//OUTPUT-1 (if you input only digits which is belong to 0-9 then the output is bellow)
+//true
+
+//OUTPUT-2 (if you input only character then the output is bellow)
+//false
