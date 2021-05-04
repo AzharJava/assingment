@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Leaf
+public class Leaf
 {
 	
 // A Binary Tree Node
