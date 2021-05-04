@@ -1,4 +1,4 @@
-class onlyDigit{
+public class onlyDigit{
 	//check if a string contains only digits
 	public static boolean
 	onlyDigit(String str, int n){
