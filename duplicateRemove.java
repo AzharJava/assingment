@@ -1,5 +1,5 @@
 import java.util.*;
-class duplicateRemove{
+public class duplicateRemove{
     //function to remove duplicate array.
     //create user define function.
     public static void removeDuplicate(int [] a){ 
