@@ -1,4 +1,4 @@
-class Node{	//create a class for node
+public class Node{	//create a class for node
 	int key;	
 	Node left, right;
 
@@ -8,7 +8,7 @@ class Node{	//create a class for node
 	}
 }
 
-class BinaryTree{  //craete a class for binary tree
+public class BinaryTree{  //craete a class for binary tree
 	Node root;
 //Traverse tree
 	public void traverseTree(Node node){
