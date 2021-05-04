@@ -1,4 +1,4 @@
-class LinkedList<T>{
+public class LinkedList<T>{
 	private Node<T> head;
 
 	//Internal class represent node in linkedlist
