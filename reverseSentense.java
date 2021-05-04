@@ -1,6 +1,6 @@
 //import scanner for take input from user as a string
 import java.util.Scanner;
-class reverseSentense{
+public class reverseSentense{
 	public static void main(String[] args) {
 		Scanner scanner=new Scanner(System.in);
 		System.out.print("Original String: ");
